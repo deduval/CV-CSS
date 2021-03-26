@@ -108,3 +108,7 @@ hr{
     margin: 20px;
     color: white;
 }
+.profile-picture{
+    width: 20%;
+    height: 20%;
+}
